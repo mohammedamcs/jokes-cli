@@ -17,12 +17,6 @@ to interact with the Joke API and retrieve jokes based on user-selected categori
 <img src ="./screenShots/jokes-cli-demo.gif">
 
 ## Usage
-- Ensure Node.js is installed on your system.
-- Clone the Jokes-CLI repository from GitHub.
-- Navigate to the project directory.
-- Run npm install to install the necessary dependencies.
-- Execute 'node index.js' to start the tool or Execute 'npm link' to create a global symlink for the tool so you can use it from any directory on your system.
-## Usage
 To run this application locally, follow these steps:
 - Clone the repository: git clone https://github.com/mohammedamcs/jokes-cli.git
 - Navigate to the project directory: cd jokes-cli
